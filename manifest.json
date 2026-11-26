@@ -1,6 +1,6 @@
 {
-  "name": "Glu Kasir",
-  "short_name": "Glu Kasir",
+  "name": "Glu POS",
+  "short_name": "Glu POS",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
