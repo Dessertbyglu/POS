@@ -7,6 +7,6 @@
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
   "icons": [
-    { "src": "glu-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    { "src": "Glu-Highlight.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
